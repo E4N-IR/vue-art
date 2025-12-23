@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # @e4n/vue-art
 Smart CLI for Vue project architecture
 
@@ -41,3 +42,7 @@ npx @e4n/vue-art
 # Or install globally
 npm install -g @e4n/vue-art
 @e4n/vue-art
+=======
+# vue-art
+Smart CLI for starting Vue projects with the right architecture.
+>>>>>>> e838d448a1ace15bc8e14bdb0cb51975698a4b77
