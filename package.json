@@ -1,0 +1,31 @@
+{
+  "name": "@e4n/vue-art",
+  "version": "0.0.3",
+  "description": "Opinionated Vue project generator",
+  "type": "module",
+  "bin": {
+    "vue-art": "./bin/cli.js"
+  },
+  "keywords": [
+    "vue",
+    "cli",
+    "scaffold",
+    "architecture"
+  ],
+  "author": "Ehsan Pourali (E4N)",
+  "license": "MIT",
+  "dependencies": {
+    "@vitejs/plugin-vue": "^6.0.3",
+    "chalk": "^5.6.2",
+    "cypress": "^15.8.0",
+    "eslint": "^9.39.2",
+    "execa": "^9.6.1",
+    "fs-extra": "^11.3.2",
+    "inquirer": "^13.1.0",
+    "pinia": "^3.0.4",
+    "typescript": "^5.9.3",
+    "vitest": "^4.0.16",
+    "vue-router": "^4.6.4",
+    "vuex": "^4.1.0"
+  }
+}

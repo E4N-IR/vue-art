@@ -1,0 +1,69 @@
+<template>
+  <svg
+    width="120"
+    height="120"
+    viewBox="0 0 450 450"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <line
+      x1="67"
+      y1="208.78"
+      x2="134"
+      y2="208.78"
+      stroke="blue"
+      stroke-width="8"
+    />
+    <line
+      x1="67"
+      y1="254.78"
+      x2="134"
+      y2="254.78"
+      stroke="blue"
+      stroke-width="8"
+    />
+    <line
+      x1="67"
+      y1="302.78"
+      x2="134"
+      y2="302.78"
+      stroke="blue"
+      stroke-width="8"
+    />
+    <line
+      x1="187"
+      y1="273.78"
+      x2="274"
+      y2="273.78"
+      stroke="blue"
+      stroke-width="8"
+    />
+    <line
+      x1="247.758"
+      y1="304.78"
+      x2="247.758"
+      y2="246.78"
+      stroke="blue"
+      stroke-width="8"
+    />
+    <line
+      x1="336"
+      y1="304.78"
+      x2="336"
+      y2="203.78"
+      stroke="blue"
+      stroke-width="8"
+    />
+    <path d="M411 303.78L411 202.78" stroke="blue" stroke-width="8" />
+    <path
+      d="M239.242 204.28L248.968 204.28L197.756 269.28L188.03 269.281L239.242 204.28Z"
+      fill="blue"
+      stroke="blue"
+    />
+    <path
+      d="M406.5 292.948L406.5 302.299L340.499 215.611L340.5 205.274L406.5 292.948Z"
+      fill="blue"
+      stroke="blue"
+    />
+  </svg>
+</template>
